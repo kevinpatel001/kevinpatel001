@@ -11,7 +11,7 @@ I’m an entry-level Frontend Developer with skills in HTML, CSS, Tailwind CSS, 
 
 
 
-- 👨🏻‍💻 Here is my Profile Link <a href="https://kevinpatel001.github.io/Profile-Project/src/portfolio.html"> Link  </a>
+- 👨🏻‍💻 Here is my Profile <a href="https://kevinpatel001.github.io/Profile-Project/src/portfolio.html">Link</a>
 
 
 
